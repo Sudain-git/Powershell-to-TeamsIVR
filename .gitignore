@@ -1,0 +1,21 @@
+# Credentials and secrets
+*.credential
+*.cred
+secrets.ps1
+config.local.ps1
+.env
+
+# PowerShell module caches
+~*
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
